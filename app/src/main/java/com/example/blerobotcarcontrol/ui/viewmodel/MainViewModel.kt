@@ -1,7 +1,6 @@
 package com.example.blerobotcarcontrol.ui.viewmodel
 import android.Manifest
 import android.annotation.SuppressLint
-import android.annotation.TargetApi
 import android.app.Application
 import android.bluetooth.BluetoothAdapter
 import android.bluetooth.BluetoothGatt
@@ -37,7 +36,6 @@ import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
 import java.util.UUID
-import kotlin.code
 
 class MainViewModel(application: Application) : AndroidViewModel(application) {
 
