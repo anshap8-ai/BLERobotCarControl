@@ -18,7 +18,7 @@ BLE-server:
 - programming language С++,
 - built-in library Arduino BLE.
 
-Отладка:
+Debug:
 - HP Pavilion Desktop PC 570 (Intel Core i3-7100 CPU 3.9 GHz, RAM 8Gb, Win10),
 - smartphone Honor 10 Lite HRY-LX1,
 - microcontroller development board ESP32C3 (AirM2M Core ESP32C3) from Aliexpress.
