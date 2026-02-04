@@ -14,7 +14,7 @@ BLE-client:
 - Java SDK version - JDK24.
 
 BLE-server:
-- Arduino IDE v.2.3.7., фреймворк Arduino ESP32 Core,
+- Arduino IDE v.2.3.7., framework Arduino ESP32 Core,
 - programming language С++,
 - built-in library Arduino BLE.
 
