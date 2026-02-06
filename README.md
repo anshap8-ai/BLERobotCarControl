@@ -1,5 +1,7 @@
 ## BLE Robot Car Control
 
+...........![Application screen](doc/blerc_app2.jpg)
+
 ### Purpose
 
 This work is an educational project on creating a mobile application for controlling a robot car (radio-controlled toy) using the BLE protocol (Bluetooth Low Energy). 
